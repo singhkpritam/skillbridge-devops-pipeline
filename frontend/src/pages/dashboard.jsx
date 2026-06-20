@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import axios from "axios";
-import "../styles/dashboard.css";
+import "../styles/Dashboard.css";
 
 function Dashboard() {
   const [success, setSuccess] = useState(false);

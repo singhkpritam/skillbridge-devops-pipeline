@@ -25,6 +25,7 @@ function Home() {
     }
   };
 
+
   // DELETE FEATURE
   const deleteSkill = async (id) => {
     try {
